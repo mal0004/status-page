@@ -1,0 +1,13 @@
+---
+title: Maintenance ...
+date: DATE
+resolved: true
+resolvedWhen: DATE
+# Possible severity levels: down, disrupted, notice
+severity: 
+affected:
+  - 
+section: issue
+---
+
+TEXT
