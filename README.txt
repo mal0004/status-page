@@ -1,3 +1,1 @@
-This is the default cState status page website directory/folder.
-
-https://github.com/cstate/example
+Status page for https://mal0004.com/ with cstate, it's an open source project on github. => https://github.com/cstate/
