@@ -1,8 +1,8 @@
 ---
 title: High latency for Suba.
 date: 20-04-20 00:02
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 20-04-20 00:20
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
