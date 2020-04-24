@@ -10,4 +10,6 @@ affected:
 section: issue
 ---
 
-*Update* - We are in the process of fixing that, we think the api discord has a problem..
+*Update* - We are in the process of fixing that, we think the api discord has a problem.
+
+*Update* - The problem is the shard connection with discord, we're doing our best to fix that.
