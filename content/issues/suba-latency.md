@@ -1,6 +1,6 @@
 ---
 title: High latency for Suba.
-date: 2020-04-24 12:02:00
+date: 2020-04-24 24:02:00
 resolved: false
 resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
