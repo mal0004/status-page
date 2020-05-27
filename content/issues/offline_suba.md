@@ -1,5 +1,5 @@
 ---
-title: 《RESOLVED》 - Suba is down.
+title: RESOLVED - Suba is down.
 date: 2020-04-24 14:55:00
 resolved: true
 resolvedWhen: 2020-04-24 
