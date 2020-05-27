@@ -1,7 +1,7 @@
 ---
 title: [RESOLVED] No response from Suba.
 date: 2020-05-27
-resolved: true 
+resolved: true
 resolvedWhen: 2020-05-27
 # Possible severity levels: down, disrupted, notice
 severity: down
