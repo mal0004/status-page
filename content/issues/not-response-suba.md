@@ -1,5 +1,5 @@
 ---
-title: RESOLVED - No response from Suba.
+title: No response from Suba.
 date: 2020-05-27
 resolved: true
 resolvedWhen: 2020-05-27
